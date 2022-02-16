@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding black mountain: meteor
   among mavericks.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-291-learning-seminar-experiments-in-education-spring-2003/8861c7083298f3ffa4a1f9199e3ea148_MITES_291S03_blk_mntn.pdf
+file: /media/courses/es-291-learning-seminar-experiments-in-education-spring-2003/8861c7083298f3ffa4a1f9199e3ea148_MITES_291S03_blk_mntn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Black Mountain: Meteor Among Mavericks'
 uid: 8861c708-3298-f3ff-a4a1-f9199e3ea148

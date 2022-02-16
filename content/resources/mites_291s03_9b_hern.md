@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding deschooling our lives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-291-learning-seminar-experiments-in-education-spring-2003/4215707421fe78502161e143d069ad92_MITES_291S03_9b_hern.pdf
+file: /media/courses/es-291-learning-seminar-experiments-in-education-spring-2003/4215707421fe78502161e143d069ad92_MITES_291S03_9b_hern.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Deschooling Our Lives
 uid: 42157074-21fe-7850-2161-e143d069ad92
