@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b3eb4e3d-f5c1-d417-8249-910fc247a57b
 resourcetype: Document
 title: The Torch or the Firehouse
 uid: 5f231d07-4d4d-f7ce-4f30-e4101b8381c1

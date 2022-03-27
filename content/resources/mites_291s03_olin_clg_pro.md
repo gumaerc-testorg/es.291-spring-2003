@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: 'A Prospectus: Franklin W. Olin College of Engineering'
 uid: bdaa848e-8488-838a-df11-82f659922642

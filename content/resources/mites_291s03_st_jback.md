@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: "St. John\u2019s: Back to Classics"
 uid: 50ba1d2f-67f8-6ef2-892a-cb33dc3d3a32

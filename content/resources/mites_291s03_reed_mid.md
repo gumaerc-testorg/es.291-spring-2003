@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: 'Reed: A Middle Course'
 uid: 12f40726-3a1c-a264-d8ba-263fadd2baab

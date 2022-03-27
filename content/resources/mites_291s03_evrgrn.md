@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: 'Evergreen: Ever Green?'
 uid: 7bc470b3-1c63-45c3-d062-d02e8f6c2963

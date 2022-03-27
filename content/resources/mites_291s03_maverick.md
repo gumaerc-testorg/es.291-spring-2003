@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: Fourteen Notable Experiments in American Undergraduate Education
 uid: d8656a9c-2abc-2e42-5f04-8819b198070f

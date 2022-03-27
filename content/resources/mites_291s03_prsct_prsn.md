@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: 'Prescott: From Parson to Parsimony'
 uid: 5f4f2594-0bb5-cc3b-5d40-aec6cdcd023c

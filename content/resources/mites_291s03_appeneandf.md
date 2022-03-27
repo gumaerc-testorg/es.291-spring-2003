@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: An Option for Intellectual Autonomy
 uid: fda8f35c-6f6f-1dd7-8348-d59f46b48eeb

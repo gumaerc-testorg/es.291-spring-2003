@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b3eb4e3d-f5c1-d417-8249-910fc247a57b
 resourcetype: Document
 title: 'Summerhill: A Radical Approach to Child Rearing'
 uid: 077cf3dc-ec31-bbe6-5a14-0991e738f687

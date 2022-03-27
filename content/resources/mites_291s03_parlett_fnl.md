@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
 resourcetype: Document
 title: Study of Two Experimental Educational Programs at M.I.T.
 uid: f215b182-a9e7-eebe-3e7c-a6bb83369f97
