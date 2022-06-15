@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, format,
+  seminar goals, and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: dce57b80-9db9-7215-a01b-6bc8e168a51f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
