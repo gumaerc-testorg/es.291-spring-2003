@@ -6,6 +6,7 @@ file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/f215
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,7 +20,5 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding study of two experimental educational programs at M.I.T.
-
-
 
 
