@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding liberating education.
 file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/14fe481eb8161743a04193be9ae5a9ed_MITES_291S03_7c_liberating.pdf
+file_size: 53076
 file_type: application/pdf
 learning_resource_types:
 - Assignments
