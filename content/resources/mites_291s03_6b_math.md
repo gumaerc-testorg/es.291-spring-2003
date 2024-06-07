@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding mathematical problem
   solving.
 file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/65f8acf16ed6737e8f32c58988f70d1c_MITES_291S03_6b_math.pdf
+file_size: 57968
 file_type: application/pdf
 learning_resource_types:
 - Assignments

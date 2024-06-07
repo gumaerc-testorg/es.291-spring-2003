@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding summerhill: a radical
   approach to child rearing.'
 file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/077cf3dcec31bbe65a140991e738f687_MITES_291S03_9a_summerhil.pdf
+file_size: 53971
 file_type: application/pdf
 learning_resource_types:
 - Assignments
