@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding zen and the Art of motorcycle
   maintenance.
 file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/5ee7120bea1afdf3084fdeac5877b172_MITES_291S03_2a_motor.pdf
+file_size: 53600
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding homeschool resource
   centers.
 file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/ad27ba3b234070613d7cfd2788047a79_MITES_291S03_Homeschl_fnl.pdf
+file_size: 2179377
 file_type: application/pdf
 learning_resource_types:
 - Readings
