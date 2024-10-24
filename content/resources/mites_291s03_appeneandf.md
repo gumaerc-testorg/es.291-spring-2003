@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding an option for intellectual
   autonomy.
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/fda8f35c6f6f1dd78348d59f46b48eeb_MITES_291S03_appenEandF.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/fda8f35c6f6f1dd78348d59f46b48eeb_MITES_291S03_appenEandF.pdf
 file_size: 215938
 file_type: application/pdf
 learning_resource_types:
