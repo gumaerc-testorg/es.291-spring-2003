@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding proposal for the learning
   center.
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/c712958b183a1cebcdb19f11cd9c9f40_MITES_291S03_gumption.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/c712958b183a1cebcdb19f11cd9c9f40_MITES_291S03_gumption.pdf
 file_size: 4793699
 file_type: application/pdf
 learning_resource_types:
