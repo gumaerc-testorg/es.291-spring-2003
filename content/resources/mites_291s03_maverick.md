@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Fourteen notable experiments
   in american undergraduate education.
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/d8656a9c2abc2e425f048819b198070f_MITES_291S03_maverick.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/d8656a9c2abc2e425f048819b198070f_MITES_291S03_maverick.pdf
 file_size: 1106644
 file_type: application/pdf
 learning_resource_types:

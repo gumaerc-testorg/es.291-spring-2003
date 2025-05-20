@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding evergreen: ever green?.'
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/48e36eeb623fb3f8787896953310f61e_MITES_291S03_4B_evergreen.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/48e36eeb623fb3f8787896953310f61e_MITES_291S03_4B_evergreen.pdf
 file_size: 53623
 file_type: application/pdf
 learning_resource_types:
