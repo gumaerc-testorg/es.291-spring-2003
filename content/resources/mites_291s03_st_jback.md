@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding st. john\u2019s: back\
   \ to classics."
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/50ba1d2f67f86ef2892acb33dc3d3a32_MITES_291S03_st_jback.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/50ba1d2f67f86ef2892acb33dc3d3a32_MITES_291S03_st_jback.pdf
 file_size: 166709
 file_type: application/pdf
 learning_resource_types:

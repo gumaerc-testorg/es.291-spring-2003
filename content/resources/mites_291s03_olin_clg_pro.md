@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding a prospectus: franklin
   w. olin college of engineering.'
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/bdaa848e8488838adf1182f659922642_MITES_291S03_olin_clg_pro.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/bdaa848e8488838adf1182f659922642_MITES_291S03_olin_clg_pro.pdf
 file_size: 7827944
 file_type: application/pdf
 learning_resource_types:

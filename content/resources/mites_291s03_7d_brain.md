@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding use both Sides of your
   brain.
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/4a3cf7a890c6fb2cdb06e67a85155427_MITES_291S03_7d_brain.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/4a3cf7a890c6fb2cdb06e67a85155427_MITES_291S03_7d_brain.pdf
 file_size: 53254
 file_type: application/pdf
 learning_resource_types:

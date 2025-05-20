@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding black mountain: meteor
   among mavericks.'
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/8861c7083298f3ffa4a1f9199e3ea148_MITES_291S03_blk_mntn.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/8861c7083298f3ffa4a1f9199e3ea148_MITES_291S03_blk_mntn.pdf
 file_size: 179947
 file_type: application/pdf
 learning_resource_types:
