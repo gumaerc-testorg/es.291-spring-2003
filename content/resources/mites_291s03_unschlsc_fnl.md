@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding unschooling science.
-file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/21323942437ca0ac8ff044e818f59781_MITES_291S03_UnschlSc_fnl.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/21323942437ca0ac8ff044e818f59781_MITES_291S03_UnschlSc_fnl.pdf
 file_size: 828709
 file_type: application/pdf
 learning_resource_types:
