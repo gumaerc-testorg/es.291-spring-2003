@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding olin college prospectus.
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/0b6e6babdb71586ff2cd96fd96275a0f_MITES_291S03_7a_olin.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/0b6e6babdb71586ff2cd96fd96275a0f_MITES_291S03_7a_olin.pdf
 file_size: 53427
 file_type: application/pdf
 learning_resource_types:
