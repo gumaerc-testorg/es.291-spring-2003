@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding deschooling our lives.
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/4215707421fe78502161e143d069ad92_MITES_291S03_9b_hern.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/4215707421fe78502161e143d069ad92_MITES_291S03_9b_hern.pdf
 file_size: 60663
 file_type: application/pdf
 learning_resource_types:

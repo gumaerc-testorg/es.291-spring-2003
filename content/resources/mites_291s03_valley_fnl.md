@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding my years in the M.I.T
   experimental study group .
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/be1c770e07c71e8aeeb9c52def9f20ee_MITES_291S03_Valley_fnl.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/be1c770e07c71e8aeeb9c52def9f20ee_MITES_291S03_Valley_fnl.pdf
 file_size: 696942
 file_type: application/pdf
 learning_resource_types:

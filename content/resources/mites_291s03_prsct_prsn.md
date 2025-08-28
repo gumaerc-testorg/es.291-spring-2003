@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding prescott: from parson
   to parsimony.'
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/5f4f25940bb5cc3b5d40aec6cdcd023c_MITES_291S03_prsct_prsn.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/5f4f25940bb5cc3b5d40aec6cdcd023c_MITES_291S03_prsct_prsn.pdf
 file_size: 178018
 file_type: application/pdf
 learning_resource_types:
