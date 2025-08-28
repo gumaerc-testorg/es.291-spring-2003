@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding reed: a middle course.'
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/12f407263a1ca264d8ba263fadd2baab_MITES_291S03_reed_mid.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/12f407263a1ca264d8ba263fadd2baab_MITES_291S03_reed_mid.pdf
 file_size: 132256
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding the Torch or the firehouse.
-file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/5f231d074d4df7ce4f30e4101b8381c1_MITES_291S03_6a_torch.pdf
+file: /ol-ocw-studio-app/courses/es-291-learning-seminar-experiments-in-education-spring-2003/5f231d074d4df7ce4f30e4101b8381c1_MITES_291S03_6a_torch.pdf
 file_size: 53307
 file_type: application/pdf
 learning_resource_types:
