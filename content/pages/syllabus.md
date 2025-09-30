@@ -20,7 +20,7 @@ Lectures: 2 sessions / week, 1 hour / session
 Format
 ------
 
-This course, as part of the [Experimental Study Group](https://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student James Rising (S.B. '05, Philosophy) taught this seminar, loosely supervised by ESG faculty. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the {{% resource_link "7b67b6d7-ea64-40d0-b2db-eb8ea18d7cf1" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student James Rising (S.B. '05, Philosophy) taught this seminar, loosely supervised by ESG faculty. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 Seminar Goals
 -------------
