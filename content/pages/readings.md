@@ -37,7 +37,7 @@ READINGS
 {{< tdopen >}}
 
 
-Lori, Aviva. "You do the Math!" [_Haaretz_](http://www.haaretz.com/you-do-the-math-1.17931), February 26, 2003.
+Lori, Aviva. "You do the Math!" {{% resource_link "0e13f0f1-37df-4bd3-9373-fa196301d5e8" "_Haaretz_" %}}, February 26, 2003.
 
 Holt, John. _How Children Fail_. New York, NY: Dell Publishing Company, 1964, pp. xiii-xv, 3-6, 10-17, 37-44, 48-49, and 67-69.
 
@@ -121,7 +121,7 @@ A Prospectus: Franklin W. Olin College of Engineering ({{% resource_link bdaa848
 
 Olin Classroom Assessment Techniques
 
-Lake, Kathy. "[Integrated Curriculum](http://www.nwrel.org/scpd/sirs/8/c016.html)." School Improvement Research Series #16. NWREL, May 1994.
+Lake, Kathy. "{{% resource_link "9e4925e1-abef-436c-b3e9-486db90a0c3d" "Integrated Curriculum" %}}." School Improvement Research Series #16. NWREL, May 1994.
 
 Gamson, Zelda, et al. _Liberating Education_. Resource A, B. San Francisco, CA: Jossey-Bass, 1984, chapter 5. ISBN: 9780875896038.
 
